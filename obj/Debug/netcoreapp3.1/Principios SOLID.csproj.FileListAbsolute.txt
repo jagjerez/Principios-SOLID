@@ -1,0 +1,28 @@
+C:\Users\josealejandro.godoy\source\repos\Principios SOLID\Principios SOLID\bin\Debug\netcoreapp3.1\Principios SOLID.exe
+C:\Users\josealejandro.godoy\source\repos\Principios SOLID\Principios SOLID\obj\Debug\netcoreapp3.1\Principios SOLID.AssemblyInfoInputs.cache
+C:\Users\josealejandro.godoy\source\repos\Principios SOLID\Principios SOLID\obj\Debug\netcoreapp3.1\Principios SOLID.AssemblyInfo.cs
+C:\Users\josealejandro.godoy\source\repos\Principios SOLID\Principios SOLID\bin\Debug\netcoreapp3.1\Microsoft.Extensions.DependencyInjection.dll
+C:\Users\josealejandro.godoy\source\repos\Principios SOLID\Principios SOLID\bin\Debug\netcoreapp3.1\Microsoft.Extensions.DependencyInjection.Abstractions.dll
+C:\Users\josealejandro.godoy\source\repos\Principios SOLID\Principios SOLID\obj\Debug\netcoreapp3.1\Principios SOLID.csproj.CopyComplete
+C:\Users\josealejandro.godoy\source\repos\Principios SOLID\Principios SOLID\bin\Debug\netcoreapp3.1\Microsoft.Extensions.Configuration.dll
+C:\Users\josealejandro.godoy\source\repos\Principios SOLID\Principios SOLID\bin\Debug\netcoreapp3.1\Microsoft.Extensions.Configuration.Abstractions.dll
+C:\Users\josealejandro.godoy\source\repos\Principios SOLID\Principios SOLID\bin\Debug\netcoreapp3.1\Microsoft.Extensions.Configuration.Binder.dll
+C:\Users\josealejandro.godoy\source\repos\Principios SOLID\Principios SOLID\bin\Debug\netcoreapp3.1\Microsoft.Extensions.Logging.dll
+C:\Users\josealejandro.godoy\source\repos\Principios SOLID\Principios SOLID\bin\Debug\netcoreapp3.1\Microsoft.Extensions.Logging.Abstractions.dll
+C:\Users\josealejandro.godoy\source\repos\Principios SOLID\Principios SOLID\bin\Debug\netcoreapp3.1\Microsoft.Extensions.Logging.Configuration.dll
+C:\Users\josealejandro.godoy\source\repos\Principios SOLID\Principios SOLID\bin\Debug\netcoreapp3.1\Microsoft.Extensions.Logging.Console.dll
+C:\Users\josealejandro.godoy\source\repos\Principios SOLID\Principios SOLID\bin\Debug\netcoreapp3.1\Microsoft.Extensions.Options.dll
+C:\Users\josealejandro.godoy\source\repos\Principios SOLID\Principios SOLID\bin\Debug\netcoreapp3.1\Microsoft.Extensions.Options.ConfigurationExtensions.dll
+C:\Users\josealejandro.godoy\source\repos\Principios SOLID\Principios SOLID\bin\Debug\netcoreapp3.1\Microsoft.Extensions.Primitives.dll
+C:\Users\josealejandro.godoy\source\repos\Principios SOLID\Principios SOLID\bin\Debug\netcoreapp3.1\Principios SOLID.deps.json
+C:\Users\josealejandro.godoy\source\repos\Principios SOLID\Principios SOLID\bin\Debug\netcoreapp3.1\Principios SOLID.runtimeconfig.json
+C:\Users\josealejandro.godoy\source\repos\Principios SOLID\Principios SOLID\bin\Debug\netcoreapp3.1\Principios SOLID.runtimeconfig.dev.json
+C:\Users\josealejandro.godoy\source\repos\Principios SOLID\Principios SOLID\bin\Debug\netcoreapp3.1\Principios SOLID.dll
+C:\Users\josealejandro.godoy\source\repos\Principios SOLID\Principios SOLID\bin\Debug\netcoreapp3.1\Principios SOLID.pdb
+C:\Users\josealejandro.godoy\source\repos\Principios SOLID\Principios SOLID\obj\Debug\netcoreapp3.1\Principios SOLID.dll
+C:\Users\josealejandro.godoy\source\repos\Principios SOLID\Principios SOLID\obj\Debug\netcoreapp3.1\Principios SOLID.pdb
+C:\Users\josealejandro.godoy\source\repos\Principios SOLID\Principios SOLID\bin\Debug\netcoreapp3.1\Microsoft.Extensions.Configuration.FileExtensions.dll
+C:\Users\josealejandro.godoy\source\repos\Principios SOLID\Principios SOLID\bin\Debug\netcoreapp3.1\Microsoft.Extensions.Configuration.Json.dll
+C:\Users\josealejandro.godoy\source\repos\Principios SOLID\Principios SOLID\bin\Debug\netcoreapp3.1\Microsoft.Extensions.FileProviders.Abstractions.dll
+C:\Users\josealejandro.godoy\source\repos\Principios SOLID\Principios SOLID\bin\Debug\netcoreapp3.1\Microsoft.Extensions.FileProviders.Physical.dll
+C:\Users\josealejandro.godoy\source\repos\Principios SOLID\Principios SOLID\bin\Debug\netcoreapp3.1\Microsoft.Extensions.FileSystemGlobbing.dll
